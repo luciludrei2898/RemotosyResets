@@ -1,7 +1,7 @@
 public class Persona {
 
 
-public int edad;
+public String apellido;
 public String nombre;
 
 }
